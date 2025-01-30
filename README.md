@@ -1,5 +1,4 @@
-# IA de reconhecimento de imagem no Microsoft Azure
-# Como usar o Microsoft Azure para reconhecimento de imagem
+# IA de reconhecimento de imagem no Microsoft Azure como usar o Microsoft Azure para reconhecimento de imagem
 
 Inicialmente você deverá acessar a sua conta no Azure, e na aba a esquerda deverá clicar em 'Ai + Machine Learning' como mostra imagem abaixo:
 
